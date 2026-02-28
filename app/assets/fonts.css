@@ -1,0 +1,11 @@
+/* * Title */
+@font-face {
+  font-family: "Pinyon Script";
+  src: url("/fonts/PinyonScript/PinyonScript-Regular.ttf");
+}
+
+/* * Subtitle */
+@font-face {
+  font-family: "Great Vibes";
+  src: url("/fonts/GreatVibes/GreatVibes-Regular.ttf");
+}
