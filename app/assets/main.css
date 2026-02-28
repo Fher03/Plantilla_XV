@@ -1,0 +1,15 @@
+@import "tailwindcss";
+@import url("./fonts.css");
+
+@theme {
+  --color-primary: #ffd1dc;
+  --color-secondary: #fdfd96;
+  --color-accent: #fb05d8;
+  --color-neutral-100: #e3e3e3;
+  --color-neutral-500: #7d7d7d;
+  --color-neutral-900: #303030;
+  --color-primary-dark: #b17f7f;
+
+  --font-pinyon-script: "Pinyon Script", sans-serif;
+  --font-great-vibes: "Great Vibes", sans-serif;
+}
