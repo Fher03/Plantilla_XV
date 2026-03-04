@@ -6,5 +6,6 @@
     <SectionGratitude />
     <SectionWhereAndWhen />
     <SectionDressCode />
+    <SectionUploadPhotos />
   </main>
 </template>

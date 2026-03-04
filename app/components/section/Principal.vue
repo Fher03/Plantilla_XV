@@ -1,6 +1,6 @@
 <template>
   <div
-    class="relative bg-[url(/photos/bg.jpg)] bg-center bg-cover bg-no-repeat w-full h-screen md:bg-contain"
+    class="relative bg-[url(/photos/principal.jpg)] bg-center bg-cover bg-no-repeat w-full h-screen md:bg-contain"
   >
     <div class="absolute z-1 bg-black/30 bg-center w-full h-full" />
     <div
