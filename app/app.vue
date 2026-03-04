@@ -8,5 +8,7 @@
     <SectionDressCode />
     <SectionUploadPhotos />
     <SectionPolaroidPhotos />
+    <SectionFinale />
+    <SectionContactUs />
   </main>
 </template>
