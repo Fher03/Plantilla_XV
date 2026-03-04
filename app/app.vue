@@ -7,5 +7,6 @@
     <SectionWhereAndWhen />
     <SectionDressCode />
     <SectionUploadPhotos />
+    <SectionPolaroidPhotos />
   </main>
 </template>
