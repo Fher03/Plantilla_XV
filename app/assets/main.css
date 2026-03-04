@@ -13,3 +13,7 @@
   --font-pinyon-script: "Pinyon Script", sans-serif;
   --font-great-vibes: "Great Vibes", sans-serif;
 }
+
+body {
+  @apply overflow-x-hidden;
+}
