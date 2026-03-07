@@ -40,9 +40,10 @@ const cards: Card[] = [
 </script>
 <template>
   <div class="w-screen h-fit py-10 px-5 flex flex-col gap-20">
-    <h1 class="text-5xl text-center font-great-vibes">Donde y Cuando</h1>
+    <h1 class="text-5xl text-center font-great-vibes text-accent">
+      Donde y Cuando
+    </h1>
     <div class="flex flex-col items-center gap-10">
-      <!-- Card -->
       <div
         v-for="(card, index) of cards"
         :key="index"

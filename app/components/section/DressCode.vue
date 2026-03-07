@@ -15,7 +15,7 @@
     </div>
     <div class="flex items-center justify-center max-w-xs">
       <div
-        class="text-center flex flex-col gap-2 p-4 font-serif bg-white text-primary-dark border-4 border-primary-dark shadow-2xl"
+        class="text-center flex flex-col gap-2 p-4 font-serif bg-white text-accent border-4 border-accent shadow-2xl"
       >
         <h3 class="text-base text-center">
           Color Rosa reservado para la quinceañera
