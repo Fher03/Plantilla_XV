@@ -11,16 +11,17 @@
       >
         Sube tus fotos y videos de mis XV
       </h2>
-      <div>
-        <p class="text-white text-2xl">Aqui Sube tus fotos!</p>
-      </div>
-      <!-- <input type="file" /> -->
 
-      <a
-        href="https://www.instagram.com/explore/tags/misXvZoe/"
-        class="text-white flex items-center gap-2 rounded-2xl bg-primary-dark py-2 px-8 font-sans"
-        ><Icon name="mdi:instagram" class="text-2xl" />#MisXVZoe</a
-      >
+      <div class="flex flex-col gap-4">
+        <p class="text-white text-xl">¡Aquí sube tus fotos!</p>
+        <div class="flex items-center justify-center">
+          <a
+            href="https://www.instagram.com/explore/tags/misXvZoe/"
+            class="text-white flex items-center gap-2 rounded-2xl bg-primary-dark py-2 px-8 font-sans"
+            ><Icon name="mdi:instagram" class="text-2xl" />#MisXVZoe</a
+          >
+        </div>
+      </div>
     </div>
   </div>
 </template>

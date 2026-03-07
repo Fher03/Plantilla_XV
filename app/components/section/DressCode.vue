@@ -4,7 +4,7 @@
   >
     <!-- Title -->
     <div
-      class="text-center flex flex-col gap-2 py-4 px-10 font-great-vibes bg-white text-primary-dark border-4 border-primary-dark shadow-2xl"
+      class="text-center font-great-vibes flex flex-col gap-2 text-primary-dark"
     >
       <h2 class="text-4xl">Codigo de Vestimenta</h2>
       <h3 class="text-3xl">Formal</h3>
@@ -14,17 +14,16 @@
       <img src="/icons/dress_icon.svg" class="w-25" />
     </div>
     <div class="flex items-center justify-center max-w-xs">
-      <div
-        class="text-center flex flex-col gap-2 p-4 font-serif bg-white text-accent border-4 border-accent shadow-2xl"
-      >
+      <div class="text-center flex flex-col gap-2 p-4 font-serif text-accent">
         <h3 class="text-base text-center">
           Color Rosa reservado para la quinceañera
         </h3>
       </div>
     </div>
     <div
-      class="text-center flex flex-col gap-2 py-4 px-10 font-great-vibes bg-white text-primary-dark border-4 border-primary-dark shadow-2xl"
+      class="text-center font-great-vibes flex flex-col gap-2 text-primary-dark"
     >
+      >
       <h2 class="text-4xl">Mesa de regalos</h2>
       <h3 class="text-3xl">Cualquier regalo es bienvenido</h3>
     </div>

@@ -38,21 +38,20 @@
       </span>
 
       <div class="relative z-10 flex flex-col items-center gap-6">
-        <h2
-          v-motion-fade-visible-once
-          :delay="400"
-          class="font-great-vibes text-5xl text-gray-800"
-        >
-          Agradecimientos
-        </h2>
-
         <p
           v-motion-fade-visible-once
           :delay="600"
           class="text-gray-600 font-serif italic text-lg leading-relaxed px-2"
         >
-          "De una manera muy especial, llena de alegría y gratitud por la vida
-          que Dios me ha regalado."
+          Hay momentos inolvidables que se atesoran para siempre por eso será
+          muy especial si disfrutas a mi lado y junto a
+        </p>
+        <p
+          v-motion-fade-visible-once
+          :delay="700"
+          class="text-gray-600 italic text-4xl font-great-vibes leading-relaxed px-2"
+        >
+          Mis Padres
         </p>
 
         <div class="flex flex-col gap-4 w-full mt-4">

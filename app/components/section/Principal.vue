@@ -6,9 +6,14 @@
     <div
       class="flex z-2 relative flex-col items-center justify-between h-full py-10"
     >
-      <h1 class="text-7xl text-center text-primary font-pinyon-script">
-        XV de Zoé
-      </h1>
+      <div>
+        <h1 class="text-7xl text-center text-primary font-pinyon-script">
+          Zoé Valentina
+        </h1>
+        <h2 class="text-3xl text-center text-primary font-great-vibes">
+          Mis XV
+        </h2>
+      </div>
 
       <CountDown />
     </div>
