@@ -14,6 +14,7 @@
   --font-great-vibes: "Great Vibes", sans-serif;
 }
 
-body {
+body,
+html {
   @apply overflow-x-hidden;
 }
