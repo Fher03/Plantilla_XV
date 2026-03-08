@@ -39,7 +39,7 @@ const cards: Card[] = [
 ];
 </script>
 <template>
-  <div class="w-screen h-fit py-10 px-5 flex flex-col gap-20">
+  <div class="w-screen h-fit py-20 px-5 flex flex-col gap-20">
     <h1 class="text-5xl text-center font-great-vibes text-accent">
       Donde y Cuando
     </h1>

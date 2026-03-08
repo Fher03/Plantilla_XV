@@ -7,11 +7,11 @@
       class="flex z-2 relative flex-col items-center justify-between h-full py-10"
     >
       <div>
-        <h1 class="text-7xl text-center text-primary font-pinyon-script">
+        <h1 class="text-5xl text-center text-primary font-pinyon-script">
           Zoé Valentina
         </h1>
         <h2 class="text-3xl text-center text-primary font-great-vibes">
-          Mis XV
+          Mis Quince
         </h2>
       </div>
 

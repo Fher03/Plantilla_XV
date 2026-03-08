@@ -6,7 +6,7 @@
     <div
       class="text-center font-great-vibes flex flex-col gap-2 text-primary-dark"
     >
-      <h2 class="text-4xl">Codigo de Vestimenta</h2>
+      <h2 class="text-5xl">Codigo de Vestimenta</h2>
       <h3 class="text-3xl">Formal</h3>
     </div>
     <div class="flex justify-center gap-10">
@@ -24,7 +24,7 @@
       class="text-center font-great-vibes flex flex-col gap-2 text-primary-dark"
     >
       >
-      <h2 class="text-4xl">Mesa de regalos</h2>
+      <h2 class="text-5xl">Mesa de regalos</h2>
       <h3 class="text-3xl">Cualquier regalo es bienvenido</h3>
     </div>
     <div class="flex justify-center gap-10">

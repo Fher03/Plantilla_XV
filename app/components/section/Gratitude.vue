@@ -60,7 +60,7 @@
               class="text-2xl font-light tracking-[0.15em] text-gray-700 uppercase leading-tight"
             >
               Luz Elena <br />
-              <span class="font-bold">Rodriguez Vázquez</span>
+              Rodriguez Vázquez
             </p>
           </div>
 
@@ -75,7 +75,7 @@
               class="text-2xl font-light tracking-[0.15em] text-gray-700 uppercase leading-tight"
             >
               Jorge Ernesto <br />
-              <span class="font-bold">Núñez de la Torre</span>
+              Núñez de la Torre
             </p>
           </div>
         </div>
@@ -103,7 +103,7 @@
       <div
         class="w-24 h-px bg-linear-to-r from-transparent via-accent to-transparent mb-2 mx-auto"
       />
-      <p class="font-great-vibes text-2xl text-accent">XV Zoe</p>
+      <p class="font-great-vibes text-2xl text-accent">XV Zoé</p>
     </div>
   </div>
 </template>

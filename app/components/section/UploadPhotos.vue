@@ -9,7 +9,7 @@
       <h2
         class="text-center font-great-vibes text-white w-sm text-4xl leading-14"
       >
-        Sube tus fotos y videos de mis XV
+        Sube tus fotos y videos de mis Quince
       </h2>
 
       <div class="flex flex-col gap-4">
