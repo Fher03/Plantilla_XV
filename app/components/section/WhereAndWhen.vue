@@ -15,9 +15,9 @@ const cards: Card[] = [
   {
     title: "Misa",
     information: {
-      day: "18 de Abril",
-      hour: "07:00 P.M.",
-      place: "Parroquia Sagrado Corazon",
+      day: "18 de abril",
+      hour: "07:00 p.m.",
+      place: "Parroquia Sagrado Corazón",
     },
     googleMapsPath: "https://maps.app.goo.gl/hHk8GrsCxp4oXJxe6",
     iconPath: "/icons/church_icon.svg",
@@ -27,9 +27,9 @@ const cards: Card[] = [
   {
     title: "Fiesta",
     information: {
-      day: "18 de Abril",
-      hour: "08:00 P.M.",
-      place: "Santa Secilia Planta Baja",
+      day: "18 de abril",
+      hour: "08:00 p.m.",
+      place: "Salón Santa Cecilia, Planta Baja",
     },
     googleMapsPath: "https://maps.app.goo.gl/Gn2TXCC4qca68MYB6",
     iconPath: "/icons/cheers_icon.svg",
@@ -41,7 +41,7 @@ const cards: Card[] = [
 <template>
   <div class="w-screen h-fit py-20 px-5 flex flex-col gap-20">
     <h1 class="text-5xl text-center font-great-vibes text-accent">
-      Donde y Cuando
+      Dónde y cuándo
     </h1>
     <div class="flex flex-col items-center gap-10">
       <div

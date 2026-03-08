@@ -43,15 +43,15 @@
           :delay="600"
           class="text-gray-600 font-serif italic text-lg leading-relaxed px-2"
         >
-          Hay momentos inolvidables que se atesoran para siempre por eso será
-          muy especial si disfrutas a mi lado y junto a
+          Hay momentos inolvidables que se atesoran para siempre, por eso será
+          muy especial que los disfrutes a mi lado y junto a
         </p>
         <p
           v-motion-fade-visible-once
           :delay="700"
           class="text-gray-600 italic text-4xl font-great-vibes leading-relaxed px-2"
         >
-          Mis Padres
+          Mis padres
         </p>
 
         <div class="flex flex-col gap-4 w-full mt-4 font-serif">
@@ -59,8 +59,8 @@
             <p
               class="text-2xl tracking-[0.15em] text-gray-700 uppercase leading-tight"
             >
-              Luz Elena <br />
-              Rodriguez Vázquez
+              Luz Elena <br>
+              Rodríguez Vázquez
             </p>
           </div>
 
@@ -74,7 +74,7 @@
             <p
               class="text-2xl tracking-[0.15em] text-gray-700 uppercase leading-tight"
             >
-              Jorge Ernesto <br />
+              Jorge Ernesto <br>
               Núñez de la Torre
             </p>
           </div>

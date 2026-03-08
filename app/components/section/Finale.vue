@@ -3,7 +3,7 @@
     <h3
       class="relative font-great-vibes text-5xl leading-14 max-w-xs text-center"
     >
-      Gracias por acompañarme en mi dia especial
+      Gracias por acompañarme en mi día especial
     </h3>
     <NuxtImg
       v-motion

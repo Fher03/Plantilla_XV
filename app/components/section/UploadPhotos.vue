@@ -13,7 +13,7 @@
       </h2>
 
       <div class="flex flex-col gap-4">
-        <p class="text-white text-xl">¡Aquí sube tus fotos!</p>
+        <p class="text-white text-xl">¡Sube tus fotos aquí!</p>
         <div class="flex items-center justify-center">
           <a
             href="https://www.instagram.com/explore/tags/misXvZoe/"
