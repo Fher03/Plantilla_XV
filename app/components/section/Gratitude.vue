@@ -54,12 +54,10 @@
           Mis padres
         </p>
 
-        <div class="flex flex-col gap-4 w-full mt-4 font-serif">
+        <div class="flex flex-col gap-4 w-full mt-4 font-serif italic text-2xl">
           <div v-motion-fade-visible-once :delay="800">
-            <p
-              class="text-2xl tracking-[0.15em] text-gray-700 uppercase leading-tight"
-            >
-              Luz Elena <br>
+            <p class="text-gray-600">
+              Luz Elena <br />
               Rodríguez Vázquez
             </p>
           </div>
@@ -71,10 +69,8 @@
           />
 
           <div v-motion-fade-visible-once :delay="1200">
-            <p
-              class="text-2xl tracking-[0.15em] text-gray-700 uppercase leading-tight"
-            >
-              Jorge Ernesto <br>
+            <p class="text-gray-600">
+              Jorge Ernesto <br />
               Núñez de la Torre
             </p>
           </div>

@@ -29,7 +29,7 @@ const cards: Card[] = [
     information: {
       day: "18 de abril",
       hour: "08:00 p.m.",
-      place: "Salón Santa Cecilia, Planta Baja",
+      place: "Salón Santa Secilia, Planta Baja",
     },
     googleMapsPath: "https://maps.app.goo.gl/Gn2TXCC4qca68MYB6",
     iconPath: "/icons/cheers_icon.svg",
