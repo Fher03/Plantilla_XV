@@ -54,7 +54,9 @@
           Mis padres
         </p>
 
-        <div class="flex flex-col gap-4 w-full mt-4 font-serif italic text-2xl">
+        <div
+          class="flex flex-col gap-4 w-full mt-4 font-pinyon-script text-4xl"
+        >
           <div v-motion-fade-visible-once :delay="800">
             <p class="text-gray-600">
               Luz Elena <br />

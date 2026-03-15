@@ -42,7 +42,7 @@ const handleStart = () => {
             "
           >
             <div
-              class="absolute inset-0 opacity-60 bg-[url('https://www.transparenttextures.com/patterns/aged-paper.png')] pointer-events-none"
+              class="absolute inset-0 opacity-60 bg-secondary/10 pointer-events-none"
             />
 
             <div
@@ -72,7 +72,7 @@ const handleStart = () => {
                   />
 
                   <div
-                    class="absolute inset-0 bg-[#a51d1d] rounded-full border-4 border-[#8b0000] shadow-[inner_0_0_15px_rgba(0,0,0,0.5)] transform group-hover:rotate-[-5deg] transition-transform"
+                    class="absolute inset-0 bg-primary rounded-full border-4 border-primary-dark shadow-[inner_0_0_15px_rgba(0,0,0,0.5)] transform group-hover:rotate-[-5deg] transition-transform"
                     style="
                       clip-path: polygon(
                         50% 0%,
